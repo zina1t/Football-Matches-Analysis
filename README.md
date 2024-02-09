@@ -4,7 +4,24 @@ Exploratory Data Analysis of men and women matches.
 ## Football
 This is a Jupyter Notebook which will contain plots and analysis of football matches. 
 
-Stay tuned!
+## Dataframe:
+
+The **results** dataframe has following columns:
+
+1. **date**: date of the match
+2. **home_team**: the name of the home team.
+3. **away_team**: the name of the away team.
+4. **home_score**: full-time home team score.
+5. **away_score**: full-time away team score.
+6. **tournament**: the name of the tournament.
+
+## Key Findings
+
+1. Proportion of the friendly matches has decreased.
+2. The number of goals per match has gone downward.
+3. Brazil, Germany and Spain have the best winning ratios.
+4. Germany, Brazil, England are some of the best attacking teams.
+5. Iran, Morocco and Brazil are some of the best defending teams.
 
 ## Goals_diff
 goals_diff.py is a file of DataCamp Project
